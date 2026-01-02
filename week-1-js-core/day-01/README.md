@@ -1,29 +1,14 @@
-Daily Checklist
+# 30 Days of JavaScript & TypeScript
 
- I showed up (even if tired)
+A 30-day hands-on coding challenge for January 2026.
 
- I reviewed yesterday’s code (5–10 mins)
+## Structure
+- Week 1: JavaScript Core
+- Week 2: JavaScript Advanced
+- Week 3: TypeScript
+- Week 4: Final Project
 
- I wrote new code today
-
- I committed to GitHub
-
- I noted 1 thing I learned
-
- I noted 1 thing that confused me
-
-Minimum rule:
-Even 30 minutes counts, but skipping does not.
-
-Day 1 – Environment & JS Basics
-
- Node installed & verified
-
- Repo created
-
- First JS file runs
-
- Difference between let, const, var
-
-Deliverable:
-hello.js that logs your January goal
+## Rules
+- Code daily
+- Commit daily
+- Reflect daily
