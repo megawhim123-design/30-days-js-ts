@@ -11,4 +11,4 @@ A daily coding challenge for January 2026.
 ## Rules
 - Code daily
 - Commit daily
-- Reflect daily
+- Reflect dailytyp
