@@ -1,3 +1,4 @@
+
 Daily Checklist
 
  I showed up (even if tired)
