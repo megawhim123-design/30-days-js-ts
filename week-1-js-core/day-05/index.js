@@ -1,5 +1,7 @@
 /** Day 5 – Arrays & Array Methods
  * Topic: Arrays & Array Methods
+ * 
+ * Notes:
 
  JavaScript Arrays Basics
 Introduction
@@ -46,6 +48,9 @@ const arrayWithLength = new Array(5); // Creates an array with 5 empty slots
 
 // Array with specific elements
 // const fruits = newArray("apple", "banana", "orange");
+
+
+// =========== Main Practise =========== 
 
 // Array Elements
 // Array elements are accessed using their index, which starts at 0 for the first element:
